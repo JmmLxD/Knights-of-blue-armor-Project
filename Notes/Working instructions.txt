@@ -1,0 +1,56 @@
+/////////////// For the devs working in this project: ///////////////
+
+///Contents:
+
+1.) Folders in the project.
+2.) What will be NOT uploaded in this repository.
+3.) Working flow.
+4.) Asking questions.
+
+
+
+/// 1.) Folders in the project
+
+
+
+Each folder has its purpose on this repository. These folders are divided by the following list:
+
+
+
+- Assets: Here custom assets for unity in the project will be uploaded.
+
+- Scripts: The scripts for each element of this project will be added here, each on their respective folder
+(Remember to be clear in for what is used each element in its title). 
+
+- Tools: External tools for the project.
+
+- Other: Non-categorized elements of the project.
+- Test: This folder is for storing tests of the unity project (used mostly for play-testing and compatibility testing).
+
+- Notes: here, every dev can post notes of development that he wants other devs to see. example: "I think we should review the elf problem --Judge".
+
+
+
+/// 2.) What will be NOT uploaded in this repository.
+
+
+We won't allow to enter the next thing in the project:
+
+- Material not related to the game.
+- Sprite sheets.
+- Audio files.
+- Executables.
+
+
+
+/// 3.) Working flow 
+
+In the project section of this repository in github, you will see a "Development plan". Here you will be able to know what is the current issue with the problem, what is left to do and what is alredy done.
+
+
+
+/// Asking Questions
+
+You can ask question directly to @Judge in the Discord server of the project or you can leave a note in your respective Notes' folder.
+
+
