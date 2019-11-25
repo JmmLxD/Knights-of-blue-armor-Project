@@ -1,16 +1,12 @@
 ﻿using System.Collections;
-
 using System.Collections.Generic;
-
 using UnityEngine;
+using System;
 
 
 
 public class Rhythmn : MonoBehaviour {
-
-	
-
-	//TODO: test the elements in practice and add definitions for combos
+    string[] combos;
 
 	Rhythmn(){
 		
