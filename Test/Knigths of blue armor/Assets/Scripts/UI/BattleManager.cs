@@ -2,11 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+<<<<<<< HEAD
 
 
 
 public partial class BattleManager : MonoBehaviour
 {
+=======
+>>>>>>> b2a2611a785ce0f9ba93992a942a0d68df9c4f3e
 
     //Atributes and constructors
 
@@ -23,6 +26,7 @@ public partial class BattleManager : MonoBehaviour
 public partial class BattleManager : MonoBehaviour
 {
 
+<<<<<<< HEAD
     //Renderers
     void Start()
     {
@@ -30,6 +34,16 @@ public partial class BattleManager : MonoBehaviour
         StartConfigurationStatus();
     }
 
+=======
+	
+	Character[] allySquad=new Character[5];
+	Character[] enemySquad=new Character[5];
+	bool Playerturn;
+    Rhythmn currentRhythmn;
+    Items inventory;
+
+    BattleManager(){
+>>>>>>> b2a2611a785ce0f9ba93992a942a0d68df9c4f3e
 
     void Update()
     {
